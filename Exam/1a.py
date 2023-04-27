@@ -1,0 +1,7 @@
+s=input("Enter a string :")
+print("The string entered by you :",s)
+l=s.split()
+l.sort()
+print("The sorted list is ",l)
+l.reverse()
+print("The reverse list is ",l)
